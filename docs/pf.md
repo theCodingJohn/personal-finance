@@ -17,7 +17,7 @@ Ideal place to stash [emergency funds](https://www.reddit.com/r/phinvest/wiki/ef
 
 <sub><sup>Deposits on each aforementioned bank are insured by PDIC up to P500,000 per depositor.</sup></sub>
 
-### Fund transfers between BPI, CIMB, Komo
+### Fund transfers between BPI, CIMB, Komo, Tonik
 
 <strong>(CIMB)</strong>
 
