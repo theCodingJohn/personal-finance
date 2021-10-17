@@ -15,10 +15,14 @@ Ideal place to stash [emergency funds](https://www.reddit.com/r/phinvest/wiki/ef
 | [Komo](https://www.komo.ph/savings)                                                                  |   2.5% p.a.   |  Yes |
 | [Tonik](https://tonikbank.com/savings-cards/tonik-account)                                           | Up to 6% p.a. |  Yes |
 
-<sub><sup>All deposits on each aforementioned bank are insured by PDIC up to P500,000 per depositor.</sup></sub>
+<sub><sup>Deposits on each aforementioned bank are insured by PDIC up to P500,000 per depositor.</sup></sub>
 
-#### Fund transfers between BPI, CIMB, Komo
+### Fund transfers between BPI, CIMB, Komo
 
 <strong>(CIMB)</strong>
 
 - BPI to GCASH to CIMB - no fee | reflected immediately
+
+<strong>(Tonik)</strong>
+
+- BPI to Tonik - no fee | reflected immediately
