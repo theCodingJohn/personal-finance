@@ -30,3 +30,7 @@ Ideal place to stash [emergency funds](https://www.reddit.com/r/phinvest/wiki/ef
 <strong>(KOMO)</strong>
 
 - BPI to Tonik to KOMO - no fee | reflected immediately
+
+<strong>(ING)</strong>
+
+- BPI to Tonik to ING - no fee | reflected immediately
